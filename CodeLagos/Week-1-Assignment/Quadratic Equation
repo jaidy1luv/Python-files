@@ -1,6 +1,0 @@
-#To calculate quadratic equation
-a = float(input('Enter first number:\n '))
-b = float(input('Enter second number:\n '))
-c = float(input('Enter third number:\n '))
-x = (-b) + (4*a*c) / (2*a)
-print ('The Quadratic equation is: ', x)
